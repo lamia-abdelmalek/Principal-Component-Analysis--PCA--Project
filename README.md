@@ -71,6 +71,3 @@ jupyter notebook PCA.ipynb
 * Practical understanding of PCA
 * Dimensionality reduction techniques
 * Data preprocessing and transformation
-
-
-I can customize it to look more professional or more academic 👌
